@@ -8,13 +8,17 @@ import { HomeComponent } from './home/home.component';
 import { MenuComponent } from './menu/menu.component';
 
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import { CategoriaComponent } from './categoria/categoria.component';
+import { BuscaComponent } from './busca/busca.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    MenuComponent
+    MenuComponent,
+    CategoriaComponent,
+    BuscaComponent
   ],
   imports: [
     AppRoutingModule,

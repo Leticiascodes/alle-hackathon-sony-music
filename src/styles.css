@@ -14,8 +14,8 @@ footer {
     text-align:center;
     padding:20px;
    /* just for demo */ 
-  
-    position: absolute;
+    z-index: 1;
+    position: fixed;
     left: 0;
     bottom: 0;
     height: 60px;
@@ -39,7 +39,7 @@ footer {
 }
 
 .busca-on{
-    background-image: url('./Content/Image/home-on.jpeg');
+    background-image: url('./Content/Image/busca-on.jpeg');
     height: 25px;padding-left:80px;
     max-height: 192px;
     z-index: 1;
@@ -158,7 +158,7 @@ footer {
       background-position: 50% 50%;
     }
   
-    .notificacao-off{
+.notificacao-off{
       background-image: url('./Content/Image/notificacao-off.jpeg');
       height: 25px;padding-left:80px;
       max-height: 192px;
@@ -173,3 +173,53 @@ footer {
       background-position: 50% 50%;
     }
 
+.estrela4{
+        background-image: url('./Content/Image/ESTRELA4.png');
+        height: 20px;padding-left:69px;
+        max-height: 40px;
+        z-index: 1;
+        width: 100%;
+        position: relative;
+        -ms-background-repeat: no-repeat;
+        background-repeat: no-repeat;
+        -ms-background-size: contain;
+        background-size: contain;
+        -ms-background-position: 50% 50%;
+        background-position: 100% 50%;
+      }
+
+      .estrela2{
+        background-image: url('./Content/Image/ESTRELA2.png');
+        height: 20px;padding-left:69px;
+        max-height: 40px;
+        z-index: 1;
+        width: 100%;
+        position: relative;
+        -ms-background-repeat: no-repeat;
+        background-repeat: no-repeat;
+        -ms-background-size: contain;
+        background-size: contain;
+        -ms-background-position: 50% 50%;
+        background-position: 100% 50%;
+      }
+
+      .estrela5{
+        background-image: url('./Content/Image/ESTRELA5.png');
+        height: 20px;padding-left:69px;
+        max-height: 40px;
+        z-index: 1;
+        width: 100%;
+        position: relative;
+        -ms-background-repeat: no-repeat;
+        background-repeat: no-repeat;
+        -ms-background-size: contain;
+        background-size: contain;
+        -ms-background-position: 50% 50%;
+        background-position: 100% 50%;
+      }
+
+
+    .fundo-preto{
+  background-color: #141414;
+    }
+    
