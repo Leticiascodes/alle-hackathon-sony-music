@@ -11,6 +11,7 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { CategoriaComponent } from './categoria/categoria.component';
 import { BuscaComponent } from './busca/busca.component';
 import { ContaComponent } from './conta/conta.component';
+import { IntroducaoComponent } from './introducao/introducao.component';
 
 
 @NgModule({
@@ -20,7 +21,8 @@ import { ContaComponent } from './conta/conta.component';
     MenuComponent,
     CategoriaComponent,
     BuscaComponent,
-    ContaComponent
+    ContaComponent,
+    IntroducaoComponent
   ],
   imports: [
     AppRoutingModule,
