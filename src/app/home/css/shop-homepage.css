@@ -1,0 +1,79 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+ body {
+    padding-top: 56px;
+  }
+
+  .maps{
+    background-image: url('../img/maps.png');
+    height: 25px;padding-left:80px;
+    height: 130px;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+    -ms-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -ms-background-size: contain;
+    background-size: contain;
+    -ms-background-position: 50% 50%;
+    background-position: 50% 50%;
+  }
+
+  .composicao{background-image: url('../img/composicao.png');
+  height: 25px;padding-left:80px;
+  height: 176px;
+  z-index: 1;
+  width: 100%;
+  position: relative;
+  -ms-background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  -ms-background-size: contain;
+  background-size: contain;
+  -ms-background-position: 50% 50%;
+  background-position: 50% 50%;
+}
+
+.mixagem{background-image: url('../img/mixagem.png');
+  height: 25px;padding-left:80px;
+  height: 176px;
+  z-index: 1;
+  width: 100%;
+  position: relative;
+  -ms-background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  -ms-background-size: contain;
+  background-size: contain;
+  -ms-background-position: 50% 50%;
+  background-position: 50% 50%;
+}
+
+.protools{background-image: url('../img/protools.png');
+  height: 25px;padding-left:80px;
+  height: 176px;
+  z-index: 1;
+  width: 100%;
+  position: relative;
+  -ms-background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  -ms-background-size: contain;
+  background-size: contain;
+  -ms-background-position: 50% 50%;
+  background-position: 50% 50%;
+}
+
+.bateria{background-image: url('../img/bateria.png');
+  height: 25px;padding-left:80px;
+  height: 176px;
+  z-index: 1;
+  width: 100%;
+  position: relative;
+  -ms-background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  -ms-background-size: contain;
+  background-size: contain;
+  -ms-background-position: 50% 50%;
+  background-position: 50% 50%;
+}

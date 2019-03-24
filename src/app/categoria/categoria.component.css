@@ -45,3 +45,11 @@
     -ms-background-position: 50% 50%;
     background-position: 50% 45%;
 }
+
+p{
+    font-size: 12px;
+}
+
+.hover-purple:hover{
+    color: #A287F4;
+  }

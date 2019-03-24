@@ -238,3 +238,10 @@ footer {
         background-position: 50% 50%;
       }
     
+.hover-purple:hover{
+  color: #A287F4;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
