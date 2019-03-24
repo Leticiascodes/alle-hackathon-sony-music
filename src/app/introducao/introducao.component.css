@@ -1,0 +1,48 @@
+.img1{
+    background-image: url('../../Content/Image/mulheres_3.png');
+    height: 200px;
+    padding-left:80px;
+    max-height: 190px;
+    vertical-align: center;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+    -ms-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -ms-background-size: contain;
+    background-size: contain;
+    -ms-background-position: 50% 50%;
+    background-position: 50% 45%;
+}
+
+.img2{
+    background-image: url('../../Content/Image/TUTO-2@3x.png');
+    height: 135px;
+    padding-left:80px;
+    max-height: 190px;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+    -ms-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -ms-background-size: contain;
+    background-size: cover;
+    -ms-background-position: 50% 50%;
+    background-position: 50% 45%;
+}
+
+.img3{
+    background-image: url('../../Content/Image/TUTO-3@3x.png');
+    height: 135px;
+    padding-left:80px;
+    max-height: 190px;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+    -ms-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -ms-background-size: contain;
+    background-size: cover;
+    -ms-background-position: 50% 50%;
+    background-position: 50% 45%;
+}

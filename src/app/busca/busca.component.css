@@ -1,0 +1,55 @@
+.violao{
+    background-image: url('../../Content/Image/violao.jpeg');
+    height: 135px;
+    padding-left:80px;
+    max-height: 190px;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+    -ms-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -ms-background-size: contain;
+    background-size: cover;
+    -ms-background-position: 50% 50%;
+    background-position: 50% 45%;
+}
+
+.vocal{
+    background-image: url('../../Content/Image/flyleaf.jpg');
+    height: 135px;
+    padding-left:80px;
+    max-height: 190px;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+    -ms-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -ms-background-size: contain;
+    background-size: cover;
+    -ms-background-position: 50% 50%;
+    background-position: 50% 45%;
+}
+
+.mesadesom{
+    background-image: url('../../Content/Image/mesadesom.jpeg');
+    height: 135px;
+    padding-left:80px;
+    max-height: 190px;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+    -ms-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -ms-background-size: contain;
+    background-size: cover;
+    -ms-background-position: 50% 50%;
+    background-position: 50% 45%;
+}
+
+p{
+    color:white;
+}
+
+a{
+    color:white;
+}
