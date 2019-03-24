@@ -1,6 +1,14 @@
-# Safeandsound
+# Alle
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+
+## Mode de Visualização
+
+- Aplicativo idealizado para consumo via mobile. Para a obter a experiência desejada, formate sua tela para versão mobile.
+
+
+## Instruções de execução 
+
 
 ## Development server
 
