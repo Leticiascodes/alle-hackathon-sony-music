@@ -24,7 +24,7 @@ footer {
 
 /* Menu */
 .home-on{
-  background-image: url('./Content/Image/home-on.jpeg');
+  background-image: url('./Content/Image/home_on.png');
   height: 25px;padding-left:80px;
   max-height: 192px;
   z-index: 1;
@@ -39,7 +39,7 @@ footer {
 }
 
 .busca-on{
-    background-image: url('./Content/Image/busca-on.jpeg');
+    background-image: url('./Content/Image/busca_on.png');
     height: 25px;padding-left:80px;
     max-height: 192px;
     z-index: 1;
@@ -54,7 +54,7 @@ footer {
   }
 
   .categoria-on{
-    background-image: url('./Content/Image/categoria-on.jpeg');
+    background-image: url('./Content/Image/categoria_on.png');
     height: 25px;padding-left:80px;
     max-height: 192px;
     z-index: 1;
@@ -69,7 +69,7 @@ footer {
   }
 
   .contato-on{
-    background-image: url('./Content/Image/contato-on.jpeg');
+    background-image: url('./Content/Image/contato_on.png');
     height: 25px;padding-left:80px;
     max-height: 192px;
     z-index: 1;
@@ -84,7 +84,7 @@ footer {
   }
 
   .notificacao-on{
-    background-image: url('./Content/Image/notificacao-on.jpeg');
+    background-image: url('./Content/Image/notificacao_on.png');
     height: 25px;padding-left:80px;
     max-height: 192px;
     z-index: 1;
@@ -99,7 +99,7 @@ footer {
   }
 
   .home-off{
-    background-image: url('./Content/Image/home-off.jpeg');
+    background-image: url('./Content/Image/home_off.png');
     height: 25px;padding-left:80px;
     max-height: 192px;
     z-index: 1;
@@ -114,7 +114,7 @@ footer {
   }
   
   .busca-off{
-      background-image: url('./Content/Image/busca-off.jpeg');
+      background-image: url('./Content/Image/busca_off.png');
       height: 25px;padding-left:80px;
       max-height: 192px;
       z-index: 1;
@@ -129,7 +129,7 @@ footer {
     }
   
     .categoria-off{
-      background-image: url('./Content/Image/categoria-off.jpeg');
+      background-image: url('./Content/Image/categoria_off.png');
       height: 25px;padding-left:80px;
       max-height: 192px;
       z-index: 1;
@@ -144,7 +144,7 @@ footer {
     }
   
     .contato-off{
-      background-image: url('./Content/Image/contato-off.jpeg');
+      background-image: url('./Content/Image/contato_off.png');
       height: 25px;padding-left:80px;
       max-height: 192px;
       z-index: 1;
@@ -159,7 +159,7 @@ footer {
     }
   
 .notificacao-off{
-      background-image: url('./Content/Image/notificacao-off.jpeg');
+      background-image: url('./Content/Image/notificacao_off.png');
       height: 25px;padding-left:80px;
       max-height: 192px;
       z-index: 1;
