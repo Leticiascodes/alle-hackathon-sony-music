@@ -1,1 +1,175 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./Content/css/font/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2') format('woff2');
+    src: url('./Content/css/font/MaterialIcons-Regular.woff2') format('woff2'), url('./Content/css/font/MaterialIcons-Regular.woff') format('woff'), url('./Content/css/font/MaterialIcons-Regular.ttf') format('truetype');
+}
+
+footer {
+    /* just for demo */
+    background-color: #141414;
+    border-top: 1px solid #E7E7E7;
+    text-align:center;
+    padding:20px;
+   /* just for demo */ 
+  
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+}
+
+/* Menu */
+.home-on{
+  background-image: url('./Content/Image/home-on.jpeg');
+  height: 25px;padding-left:80px;
+  max-height: 192px;
+  z-index: 1;
+  width: 100%;
+  position: relative;
+  -ms-background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  -ms-background-size: contain;
+  background-size: contain;
+  -ms-background-position: 50% 50%;
+  background-position: 50% 50%;
+}
+
+.busca-on{
+    background-image: url('./Content/Image/home-on.jpeg');
+    height: 25px;padding-left:80px;
+    max-height: 192px;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+    -ms-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -ms-background-size: contain;
+    background-size: contain;
+    -ms-background-position: 50% 50%;
+    background-position: 50% 50%;
+  }
+
+  .categoria-on{
+    background-image: url('./Content/Image/categoria-on.jpeg');
+    height: 25px;padding-left:80px;
+    max-height: 192px;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+    -ms-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -ms-background-size: contain;
+    background-size: contain;
+    -ms-background-position: 50% 50%;
+    background-position: 50% 50%;
+  }
+
+  .contato-on{
+    background-image: url('./Content/Image/contato-on.jpeg');
+    height: 25px;padding-left:80px;
+    max-height: 192px;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+    -ms-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -ms-background-size: contain;
+    background-size: contain;
+    -ms-background-position: 50% 50%;
+    background-position: 50% 50%;
+  }
+
+  .notificacao-on{
+    background-image: url('./Content/Image/notificacao-on.jpeg');
+    height: 25px;padding-left:80px;
+    max-height: 192px;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+    -ms-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -ms-background-size: contain;
+    background-size: contain;
+    -ms-background-position: 50% 50%;
+    background-position: 50% 50%;
+  }
+
+  .home-off{
+    background-image: url('./Content/Image/home-off.jpeg');
+    height: 25px;padding-left:80px;
+    max-height: 192px;
+    z-index: 1;
+    width: 100%;
+    position: relative;
+    -ms-background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    -ms-background-size: contain;
+    background-size: contain;
+    -ms-background-position: 50% 50%;
+    background-position: 50% 50%;
+  }
+  
+  .busca-off{
+      background-image: url('./Content/Image/home-off.jpeg');
+      height: 25px;padding-left:80px;
+      max-height: 192px;
+      z-index: 1;
+      width: 100%;
+      position: relative;
+      -ms-background-repeat: no-repeat;
+      background-repeat: no-repeat;
+      -ms-background-size: contain;
+      background-size: contain;
+      -ms-background-position: 50% 50%;
+      background-position: 50% 50%;
+    }
+  
+    .categoria-off{
+      background-image: url('./Content/Image/categoria-off.jpeg');
+      height: 25px;padding-left:80px;
+      max-height: 192px;
+      z-index: 1;
+      width: 100%;
+      position: relative;
+      -ms-background-repeat: no-repeat;
+      background-repeat: no-repeat;
+      -ms-background-size: contain;
+      background-size: contain;
+      -ms-background-position: 50% 50%;
+      background-position: 50% 50%;
+    }
+  
+    .contato-off{
+      background-image: url('./Content/Image/contato-off.jpeg');
+      height: 25px;padding-left:80px;
+      max-height: 192px;
+      z-index: 1;
+      width: 100%;
+      position: relative;
+      -ms-background-repeat: no-repeat;
+      background-repeat: no-repeat;
+      -ms-background-size: contain;
+      background-size: contain;
+      -ms-background-position: 50% 50%;
+      background-position: 50% 50%;
+    }
+  
+    .notificacao-off{
+      background-image: url('./Content/Image/notificacao-off.jpeg');
+      height: 25px;padding-left:80px;
+      max-height: 192px;
+      z-index: 1;
+      width: 100%;
+      position: relative;
+      -ms-background-repeat: no-repeat;
+      background-repeat: no-repeat;
+      -ms-background-size: contain;
+      background-size: contain;
+      -ms-background-position: 50% 50%;
+      background-position: 50% 50%;
+    }
+
