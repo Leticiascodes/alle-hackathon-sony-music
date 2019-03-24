@@ -20,15 +20,13 @@
     "@angular/platform-browser": "^6.0.3",
     "@angular/platform-browser-dynamic": "^6.0.3",
     "@angular/router": "^6.0.3",
+    "@ng-bootstrap/ng-bootstrap": "^4.1.0",
     "bootstrap": "^4.3.1",
     "core-js": "^2.5.4",
-<<<<<<< HEAD
-    "ng-bootstrap": "^1.6.3",
-    "ngx-bootstrap": "^3.2.0",
-=======
     "express": "^4.16.4",
     "mongoose": "^5.4.19",
->>>>>>> 6bda811012f6e9e7503cfbd4ed94bad52707124f
+    "ng-bootstrap": "^1.6.3",
+    "ngx-bootstrap": "^3.2.0",
     "rxjs": "6.0.0",
     "zone.js": "^0.8.26"
   },
