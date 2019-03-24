@@ -114,7 +114,7 @@ footer {
   }
   
   .busca-off{
-      background-image: url('./Content/Image/home-off.jpeg');
+      background-image: url('./Content/Image/busca-off.jpeg');
       height: 25px;padding-left:80px;
       max-height: 192px;
       z-index: 1;
@@ -222,4 +222,19 @@ footer {
     .fundo-preto{
   background-color: #141414;
     }
+
+    .perfilfoto{
+        background-image: url('./Content/Image/PERFIL-FOTO.png');
+        height: 120px;padding-left:80px;
+        max-height: 192px;
+        z-index: 1;
+        width: 100%;
+        position: relative;
+        -ms-background-repeat: no-repeat;
+        background-repeat: no-repeat;
+        -ms-background-size: contain;
+        background-size: contain;
+        -ms-background-position: 50% 50%;
+        background-position: 50% 50%;
+      }
     

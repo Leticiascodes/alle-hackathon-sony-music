@@ -10,6 +10,7 @@ import { MenuComponent } from './menu/menu.component';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { CategoriaComponent } from './categoria/categoria.component';
 import { BuscaComponent } from './busca/busca.component';
+import { ContaComponent } from './conta/conta.component';
 
 
 @NgModule({
@@ -18,7 +19,8 @@ import { BuscaComponent } from './busca/busca.component';
     HomeComponent,
     MenuComponent,
     CategoriaComponent,
-    BuscaComponent
+    BuscaComponent,
+    ContaComponent
   ],
   imports: [
     AppRoutingModule,
